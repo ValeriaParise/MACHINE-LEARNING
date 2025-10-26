@@ -1,0 +1,8 @@
+pandas
+seaborn
+plotly
+ipython
+ipykernel
+imblearn
+scikit-learn
+openpyxl

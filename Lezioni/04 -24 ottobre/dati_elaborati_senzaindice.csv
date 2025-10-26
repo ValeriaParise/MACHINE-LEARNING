@@ -1,0 +1,6 @@
+Nome,Età,Sesso,Città,Età_2,stipendio,bonus,nome maiuscolo,sesso_numerico,citta_num
+Anna,23,F,Roma,46,2875.0,300.0,ANNA,0,1
+Marco,31,M,Torino,62,4000.0,400.0,MARCO,1,2
+Sara,25,F,Firenze,50,4200.0,420.0,SARA,0,0
+Giulia,22,F,Torino,44,1800.0,180.0,GIULIA,0,2
+Luca,25,M,Roma,50,1500.0,150.0,LUCA,1,1

@@ -1,0 +1,9 @@
+da cmd python -m venv . (nella cartella virtuale)
+
+le librerie si installano con pip install nome della libreria sempre nall dir dell ambiente virtuale.
+
+pip list da la lista di libreria installate sul pc.
+
+Per entrare nel virtual enviroment bisogna eseguire uno script che si genera automaticamente alla creazione del vemv, che si chiama activate, dentro scripts. Per farlo ".\Script\activate"
+
+nella dir dell enviroment scrivere code . per lanciare visual code
